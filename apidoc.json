@@ -1,0 +1,9 @@
+{
+    "name": "DIT PS1 Modules",
+    "title": "DIT PS1 Modules",
+    "version": "1.0.0",
+    "description": "Function Groups Listed / Function metadata",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
